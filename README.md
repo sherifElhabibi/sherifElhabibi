@@ -6,4 +6,4 @@
 
 
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,sass,figma&theme=light)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,sass&theme=light)
