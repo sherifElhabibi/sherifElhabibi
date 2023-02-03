@@ -7,3 +7,7 @@
 
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,sass)
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,,figma&theme=light)](https://skillicons.dev)
