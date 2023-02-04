@@ -7,7 +7,7 @@
 </div> 
 <div>
   <h3>What I Can Do 🐱‍💻</h3>  
-  <img height='30' src='https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,sass,nodejs'></img>
+  <img height='30' src='https://skillicons.dev/icons?i=c,cpp,html,css,js,jquery,bootstrap,sass,nodejs'></img>
 </div>  
   
 <div>
