@@ -15,9 +15,10 @@
 <a href="https://www.instagram.com/sherif.elhabibi/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sherifElhabibi" height="30"/>&nbsp;</a>
 <a href="https://www.linkedin.com/in/sherif-elhabibi-254884151/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sherifElhabibi" height="30"/></a>
 <a href="https://discordapp.com/users/434156854931750914"><img src="https://skillicons.dev/icons?i=discord" height="30"/></a>  
- </div>
- <br>
- <img src = 'https://github-readme-stats.vercel.app/api?username=sherifElhabibi&show_icons=true&theme=light'></img>
- <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherifElhabibi&theme=light&layout=compact"></img>
+</div>
+<br>
+<img src = 'https://github-readme-stats.vercel.app/api?username=sherifElhabibi&show_icons=true&theme=light'></img>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherifElhabibi&theme=light&layout=compact"></img>
+<img src='https://streak-stats.demolab.com/?user=sherifElhabibi&theme=light'></img>
 
   
