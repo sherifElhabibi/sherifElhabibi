@@ -1,4 +1,4 @@
-# Howdy Partner 👾 
+# Howdy Friend 👾 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherifElhabibi&theme=outrun&show_icons=true) 
 
 
