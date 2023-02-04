@@ -10,4 +10,4 @@
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,jquery,bootstrap,sass&theme=light)
 
-<i class="fa-brands fa-facebook-f"></i>
+<i class="fa-brands fa-square-facebook"></i>
