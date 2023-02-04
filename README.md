@@ -16,7 +16,9 @@
 <h2>My Skills</h2>
 <img height="60"  src="https://skillicons.dev/icons?i=c,cpp,js,html,css,jquery,bootstrap,sass,nodejs&theme=dark"></img>
   
-<h2>Don't Forget to follow my Socials !<h2>
-<a href="https://www.facebook.com/sherif.hussein.71/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sherifElhabibi" width="40"/></a>
+<h2>Find Me On 😊<h2>
+<a href="https://www.facebook.com/sherif.hussein.71/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sherifElhabibi" height="40"/>&nbsp;</a>
+<a href="https://www.instagram.com/sherif.elhabibi/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sherifElhabibi" height="40"/>&nbsp;</a>
+<a href="https://www.linkedin.com/in/sherif-elhabibi-254884151/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sherifElhabibi" height="40"/></a>
 
   
