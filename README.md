@@ -15,6 +15,9 @@
 <a href="https://www.facebook.com/sherif.hussein.71/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sherifElhabibi" height="30"/>&nbsp;</a>
 <a href="https://www.instagram.com/sherif.elhabibi/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sherifElhabibi" height="30"/>&nbsp;</a>
 <a href="https://www.linkedin.com/in/sherif-elhabibi-254884151/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sherifElhabibi" height="30"/></a>
+<a href="https://discordapp.com/users/434156854931750914"><img src="https://skillicons.dev/icons?i=discord" height="30"/></a>  
+  
+  
  </div>
 
   
