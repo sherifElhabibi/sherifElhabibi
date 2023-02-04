@@ -1,5 +1,5 @@
 
-<h3>Howdy Partner 👾</h3>
+<h3 align='center'>Howdy Partner 👾</h3>
 <div >
 <h4>✨ I'm Sherif Elhabibi an Ex-Biomedical Engineer and a Front-end engineer, Lovely to meet you ❤️</h4>
 <h4>🌱 I'm currently perfecting and developing my skills in web development</h4>
@@ -9,7 +9,7 @@
 <h3>My Github</h3>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=sherifElhabibi&theme=aura&show_icons=true"></img>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=sherifElhabibi&theme=aura&show_icons=true"></img>
 <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherifElhabibi&theme=aura&layout=compact"></img>
 <div>
 
