@@ -6,6 +6,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherifElhabibi&theme=aura&layout=compact?)
 
 <hr>
-<italic fa-3x>asdsadasdsad</italic> 
+<italic>asdsadasdsad</italic> 
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,jquery,bootstrap,sass&theme=light)
