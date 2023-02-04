@@ -3,7 +3,6 @@
 <h4>✨ I'm Sherif Elhabibi an Ex-Biomedical Engineer and a Front-end engineer, Lovely to meet you ❤️</h4>
 <h4>🌱 I'm currently perfecting and developing my skills in web development</h4>
 <h4>📫 How to reach me  <a href = "mailto: sherif.hussein58@gmail.com">Send Email</a><h4>
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=sherifElhabibi&theme=aura&show_icons=true"></img>
 <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherifElhabibi&theme=aura&layout=compact"></img>
 </div>
 <p>My Skills</p>
