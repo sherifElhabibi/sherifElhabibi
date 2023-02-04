@@ -7,4 +7,4 @@
 
 <hr>
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,jquery,bootstrap,sass&theme=light)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,jquery,bootstrap,sass&theme=dark)
