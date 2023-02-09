@@ -17,8 +17,17 @@
 <a href="https://discordapp.com/users/434156854931750914"><img src="https://skillicons.dev/icons?i=discord" height="30"/></a>  
 </div>
 <br>
-<img src = 'https://github-readme-stats.vercel.app/api?username=sherifElhabibi&show_icons=true&theme=tokyonight'></img>
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherifElhabibi&theme=tokyonight&layout=compact"></img>
-<img src='https://streak-stats.demolab.com/?user=sherifElhabibi&theme=tokyonight'></img>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=vanshajpoonia&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshajpoonia&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshajpoonia&theme=tokyonight" />
+</p>
+
 
   
