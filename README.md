@@ -3,6 +3,7 @@
 <h4>✨ I'm Sherif Elhabibi an Ex-Biomedical Engineer and a Front-end engineer, Lovely to meet you ❤️</h4>
 <h4>🌱 I'm currently perfecting and developing my skills in web development</h4>
 <h4>🎮 I don't have birthdays. I level up! 🆙🤣</h4>
+<h4>📧 Just Send Me an <a mailto:"sherif.hussein58@email.com">Email</a></h4>
 
 </div> 
 <div>
@@ -12,8 +13,6 @@
   
 
 ### Connect With Me 😊❤️
-  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sherif.hussein58@gmail.com)](sherif.hussein58@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sherif-elhabibi-254884151/)](https://www.linkedin.com/in/sherif-elhabibi-254884151/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sherif.hussein.71/)](https://www.facebook.com/sherif.hussein.71/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sherif.elhabibi/)](https://www.instagram.com/sherif.elhabibi/)
