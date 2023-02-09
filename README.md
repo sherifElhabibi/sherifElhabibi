@@ -2,31 +2,36 @@
 <div>
 <h4>✨ I'm Sherif Elhabibi an Ex-Biomedical Engineer and a Front-end engineer, Lovely to meet you ❤️</h4>
 <h4>🌱 I'm currently perfecting and developing my skills in web development</h4>
-<h4>📫 How to reach me  <a href = "mailto: sherif.hussein58@gmail.com">Send Email</a><h4>
+
 </div> 
 <div>
   <h3>What I Can Do 🐱‍💻</h3>  
-  <img height='30' src='https://skillicons.dev/icons?i=c,cpp,html,css,js,jquery,bootstrap,sass,nodejs'></img>
+  <img height='25' src='https://skillicons.dev/icons?i=c,cpp,html,css,js,jquery,bootstrap,sass,nodejs'></img>
 </div>  
   
-<div>
-<h3>Add Me On Social Media 😊❤️</h3> 
-<a href="https://www.facebook.com/sherif.hussein.71/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sherifElhabibi" height="30"/>&nbsp &nbsp</a>
-<a href="https://www.instagram.com/sherif.elhabibi/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sherifElhabibi" height="30"/>&nbsp &nbsp</a>
-<a href="https://www.linkedin.com/in/sherif-elhabibi-254884151/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sherifElhabibi" height="30"/>&nbsp &nbsp</a>
-<a href="https://discordapp.com/users/434156854931750914"><img src="https://skillicons.dev/icons?i=discord" height="30"/></a>  
-</div>
+
+### Connect With Me 😊❤️
+  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sherif.hussein58@gmail.com)](sherif.hussein58@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sherif-elhabibi-254884151/)](https://www.linkedin.com/in/sherif-elhabibi-254884151/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sherif.hussein.71/)](https://www.facebook.com/sherif.hussein.71/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sherif.elhabibi/)](https://www.instagram.com/sherif.elhabibi/)
+
+
 <br>
+  
+### 📈 Stats
+  
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=vanshajpoonia&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshajpoonia&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=sherifElhabibi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=light"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sherifElhabibi&show_icons=true&locale=en&layout=compact&theme=light" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshajpoonia&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherifElhabibi&theme=light" />
 </p>
 
 
