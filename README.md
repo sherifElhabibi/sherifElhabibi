@@ -17,8 +17,8 @@
 <a href="https://discordapp.com/users/434156854931750914"><img src="https://skillicons.dev/icons?i=discord" height="30"/></a>  
 </div>
 <br>
-<img src = 'https://github-readme-stats.vercel.app/api?username=sherifElhabibi&show_icons=true&theme=light'></img>
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherifElhabibi&theme=light&layout=compact"></img>
-<img src='https://streak-stats.demolab.com/?user=sherifElhabibi&theme=light'></img>
+<img src = 'https://github-readme-stats.vercel.app/api?username=sherifElhabibi&show_icons=true&theme=tokyonight'></img>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherifElhabibi&theme=tokyonight&layout=compact"></img>
+<img src='https://streak-stats.demolab.com/?user=sherifElhabibi&theme=tokyonight'></img>
 
   
