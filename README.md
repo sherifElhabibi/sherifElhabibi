@@ -2,7 +2,7 @@
 <div>
 <h4>✨ I'm Sherif Elhabibi an Ex-Biomedical Engineer and a Front-end engineer, Lovely to meet you ❤️</h4>
 <h4>🌱 I'm currently perfecting and developing my skills in web development</h4>
-<h4>🎮 See you in Summoner's Rift & GG ❤️</h4>
+<h4>🎮 I don't have birthdays. I level up! 🆙🤣</h4>
 
 </div> 
 <div>
